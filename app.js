@@ -9,22 +9,22 @@ let data = [
   {
     name: 'Engy Yacoup',
     age: 40,
-    gender: 'male',
-    city: 'Toronto',
+    gender: 'Female',
+    city: 'Calgary',
     image : 'https://randomuser.me/api/portraits/women/17.jpg'
   },
   {
     name: 'Sandra Soliman',
     age: 40,
-    gender: 'male',
-    city: 'Toronto',
+    gender: 'Female',
+    city: 'Mississauga',
     image : 'https://randomuser.me/api/portraits/women/11.jpg'
   },
   {
     name: 'Carol Soliman',
     age: 40,
-    gender: 'male',
-    city: 'Toronto',
+    gender: 'Female',
+    city: 'New York',
     image : 'https://randomuser.me/api/portraits/women/12.jpg'
   }
 ]
